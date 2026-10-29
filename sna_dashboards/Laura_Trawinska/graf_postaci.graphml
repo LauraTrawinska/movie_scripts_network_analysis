@@ -1,0 +1,415 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d1" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="undirected"><node id="JEFFREY">
+  <data key="d0">JEFFREY</data>
+</node>
+<node id="SANDY">
+  <data key="d0">SANDY</data>
+</node>
+<node id="DOROTHY">
+  <data key="d0">DOROTHY</data>
+</node>
+<node id="DETECTIVE WILLIAMS">
+  <data key="d0">DETECTIVE WILLIAMS</data>
+</node>
+<node id="MRS. WILLIAMS">
+  <data key="d0">MRS. WILLIAMS</data>
+</node>
+<node id="AUNT BARBARA">
+  <data key="d0">AUNT BARBARA</data>
+</node>
+<node id="FRANK">
+  <data key="d0">FRANK</data>
+</node>
+<node id="MRS. BEAUMONT">
+  <data key="d0">MRS. BEAUMONT</data>
+</node>
+<node id="MIKE">
+  <data key="d0">MIKE</data>
+</node>
+<node id="DR. GYNDE">
+  <data key="d0">DR. GYNDE</data>
+</node>
+<node id="COLLEGE BOY">
+  <data key="d0">COLLEGE BOY</data>
+</node>
+<node id="LOUISE">
+  <data key="d0">LOUISE</data>
+</node>
+<node id="NURSE CINDY">
+  <data key="d0">NURSE CINDY</data>
+</node>
+<node id="MR. BEAUMONT">
+  <data key="d0">MR. BEAUMONT</data>
+</node>
+<node id="MAITRE D'">
+  <data key="d0">MAITRE D'</data>
+</node>
+<node id="YELLOW MAN">
+  <data key="d0">YELLOW MAN</data>
+</node>
+<node id="RAYMOND">
+  <data key="d0">RAYMOND</data>
+</node>
+<node id="BEN">
+  <data key="d0">BEN</data>
+</node>
+<node id="POLICE OFFICER">
+  <data key="d0">POLICE OFFICER</data>
+</node>
+<node id="CORONER'S OFFICER">
+  <data key="d0">CORONER'S OFFICER</data>
+</node>
+<node id="ED">
+  <data key="d0">ED</data>
+</node>
+<node id="OLD LADY">
+  <data key="d0">OLD LADY</data>
+</node>
+<node id="SLEAZY MAITRE D'">
+  <data key="d0">SLEAZY MAITRE D'</data>
+</node>
+<node id="SLEZY MAITRE D'">
+  <data key="d0">SLEZY MAITRE D'</data>
+</node>
+<node id="WAITER">
+  <data key="d0">WAITER</data>
+</node>
+<node id="JIMMY">
+  <data key="d0">JIMMY</data>
+</node>
+<node id="STAND UP.">
+  <data key="d0">STAND UP.</data>
+</node>
+<node id="PAUL">
+  <data key="d0">PAUL</data>
+</node>
+<node id="WILLARD">
+  <data key="d0">WILLARD</data>
+</node>
+<node id="DONNY">
+  <data key="d0">DONNY</data>
+</node>
+<node id="AND">
+  <data key="d0">AND</data>
+</node>
+<node id="DETECTIVES">
+  <data key="d0">DETECTIVES</data>
+</node>
+<node id="J.R. WILLIAMS">
+  <data key="d0">J.R. WILLIAMS</data>
+</node>
+<node id="T.R. GORDON">
+  <data key="d0">T.R. GORDON</data>
+</node>
+<node id="T.R. GORDON-YELLOW MAN">
+  <data key="d0">T.R. GORDON-YELLOW MAN</data>
+</node>
+<node id="NO.">
+  <data key="d0">NO.</data>
+</node>
+<node id="LOVE ME,">
+  <data key="d0">LOVE ME,</data>
+</node>
+<node id="F.B.I. MAN">
+  <data key="d0">F.B.I. MAN</data>
+</node>
+<node id="JEFFREY AND SANDY">
+  <data key="d0">JEFFREY AND SANDY</data>
+</node>
+<edge source="JEFFREY" target="SANDY">
+  <data key="d1">37</data>
+</edge>
+<edge source="JEFFREY" target="DOROTHY">
+  <data key="d1">18</data>
+</edge>
+<edge source="JEFFREY" target="DETECTIVE WILLIAMS">
+  <data key="d1">14</data>
+</edge>
+<edge source="JEFFREY" target="MRS. WILLIAMS">
+  <data key="d1">9</data>
+</edge>
+<edge source="JEFFREY" target="AUNT BARBARA">
+  <data key="d1">8</data>
+</edge>
+<edge source="JEFFREY" target="FRANK">
+  <data key="d1">7</data>
+</edge>
+<edge source="JEFFREY" target="MRS. BEAUMONT">
+  <data key="d1">6</data>
+</edge>
+<edge source="JEFFREY" target="MIKE">
+  <data key="d1">5</data>
+</edge>
+<edge source="JEFFREY" target="DR. GYNDE">
+  <data key="d1">3</data>
+</edge>
+<edge source="JEFFREY" target="LOUISE">
+  <data key="d1">2</data>
+</edge>
+<edge source="JEFFREY" target="NURSE CINDY">
+  <data key="d1">2</data>
+</edge>
+<edge source="JEFFREY" target="MR. BEAUMONT">
+  <data key="d1">2</data>
+</edge>
+<edge source="JEFFREY" target="MAITRE D'">
+  <data key="d1">2</data>
+</edge>
+<edge source="JEFFREY" target="YELLOW MAN">
+  <data key="d1">2</data>
+</edge>
+<edge source="JEFFREY" target="RAYMOND">
+  <data key="d1">2</data>
+</edge>
+<edge source="JEFFREY" target="COLLEGE BOY">
+  <data key="d1">1</data>
+</edge>
+<edge source="JEFFREY" target="POLICE OFFICER">
+  <data key="d1">1</data>
+</edge>
+<edge source="JEFFREY" target="CORONER'S OFFICER">
+  <data key="d1">1</data>
+</edge>
+<edge source="JEFFREY" target="ED">
+  <data key="d1">1</data>
+</edge>
+<edge source="JEFFREY" target="OLD LADY">
+  <data key="d1">1</data>
+</edge>
+<edge source="JEFFREY" target="SLEAZY MAITRE D'">
+  <data key="d1">1</data>
+</edge>
+<edge source="JEFFREY" target="SLEZY MAITRE D'">
+  <data key="d1">1</data>
+</edge>
+<edge source="JEFFREY" target="WAITER">
+  <data key="d1">1</data>
+</edge>
+<edge source="JEFFREY" target="STAND UP.">
+  <data key="d1">1</data>
+</edge>
+<edge source="JEFFREY" target="BEN">
+  <data key="d1">1</data>
+</edge>
+<edge source="JEFFREY" target="DONNY">
+  <data key="d1">1</data>
+</edge>
+<edge source="JEFFREY" target="AND">
+  <data key="d1">1</data>
+</edge>
+<edge source="JEFFREY" target="DETECTIVES">
+  <data key="d1">1</data>
+</edge>
+<edge source="JEFFREY" target="J.R. WILLIAMS">
+  <data key="d1">1</data>
+</edge>
+<edge source="JEFFREY" target="T.R. GORDON">
+  <data key="d1">1</data>
+</edge>
+<edge source="JEFFREY" target="T.R. GORDON-YELLOW MAN">
+  <data key="d1">1</data>
+</edge>
+<edge source="JEFFREY" target="NO.">
+  <data key="d1">1</data>
+</edge>
+<edge source="JEFFREY" target="LOVE ME,">
+  <data key="d1">1</data>
+</edge>
+<edge source="JEFFREY" target="F.B.I. MAN">
+  <data key="d1">1</data>
+</edge>
+<edge source="JEFFREY" target="JEFFREY AND SANDY">
+  <data key="d1">1</data>
+</edge>
+<edge source="SANDY" target="DETECTIVE WILLIAMS">
+  <data key="d1">5</data>
+</edge>
+<edge source="SANDY" target="MIKE">
+  <data key="d1">5</data>
+</edge>
+<edge source="SANDY" target="MRS. WILLIAMS">
+  <data key="d1">5</data>
+</edge>
+<edge source="SANDY" target="MAITRE D'">
+  <data key="d1">1</data>
+</edge>
+<edge source="SANDY" target="SLEAZY MAITRE D'">
+  <data key="d1">1</data>
+</edge>
+<edge source="SANDY" target="SLEZY MAITRE D'">
+  <data key="d1">1</data>
+</edge>
+<edge source="SANDY" target="WAITER">
+  <data key="d1">1</data>
+</edge>
+<edge source="SANDY" target="T.R. GORDON-YELLOW MAN">
+  <data key="d1">1</data>
+</edge>
+<edge source="SANDY" target="YELLOW MAN">
+  <data key="d1">1</data>
+</edge>
+<edge source="SANDY" target="NO.">
+  <data key="d1">1</data>
+</edge>
+<edge source="SANDY" target="DOROTHY">
+  <data key="d1">1</data>
+</edge>
+<edge source="SANDY" target="LOVE ME,">
+  <data key="d1">1</data>
+</edge>
+<edge source="SANDY" target="FRANK">
+  <data key="d1">1</data>
+</edge>
+<edge source="SANDY" target="MR. BEAUMONT">
+  <data key="d1">1</data>
+</edge>
+<edge source="SANDY" target="AUNT BARBARA">
+  <data key="d1">1</data>
+</edge>
+<edge source="SANDY" target="JEFFREY AND SANDY">
+  <data key="d1">1</data>
+</edge>
+<edge source="DOROTHY" target="FRANK">
+  <data key="d1">6</data>
+</edge>
+<edge source="DOROTHY" target="OLD LADY">
+  <data key="d1">1</data>
+</edge>
+<edge source="DOROTHY" target="JIMMY">
+  <data key="d1">1</data>
+</edge>
+<edge source="DOROTHY" target="STAND UP.">
+  <data key="d1">1</data>
+</edge>
+<edge source="DOROTHY" target="YELLOW MAN">
+  <data key="d1">1</data>
+</edge>
+<edge source="DOROTHY" target="BEN">
+  <data key="d1">1</data>
+</edge>
+<edge source="DOROTHY" target="DONNY">
+  <data key="d1">1</data>
+</edge>
+<edge source="DOROTHY" target="RAYMOND">
+  <data key="d1">1</data>
+</edge>
+<edge source="DOROTHY" target="LOVE ME,">
+  <data key="d1">1</data>
+</edge>
+<edge source="DOROTHY" target="MRS. WILLIAMS">
+  <data key="d1">1</data>
+</edge>
+<edge source="DETECTIVE WILLIAMS" target="MRS. WILLIAMS">
+  <data key="d1">4</data>
+</edge>
+<edge source="DETECTIVE WILLIAMS" target="MIKE">
+  <data key="d1">3</data>
+</edge>
+<edge source="DETECTIVE WILLIAMS" target="T.R. GORDON-YELLOW MAN">
+  <data key="d1">1</data>
+</edge>
+<edge source="DETECTIVE WILLIAMS" target="YELLOW MAN">
+  <data key="d1">1</data>
+</edge>
+<edge source="DETECTIVE WILLIAMS" target="F.B.I. MAN">
+  <data key="d1">1</data>
+</edge>
+<edge source="MRS. WILLIAMS" target="MIKE">
+  <data key="d1">4</data>
+</edge>
+<edge source="MRS. WILLIAMS" target="LOVE ME,">
+  <data key="d1">1</data>
+</edge>
+<edge source="AUNT BARBARA" target="MRS. BEAUMONT">
+  <data key="d1">5</data>
+</edge>
+<edge source="AUNT BARBARA" target="DR. GYNDE">
+  <data key="d1">1</data>
+</edge>
+<edge source="AUNT BARBARA" target="JEFFREY AND SANDY">
+  <data key="d1">1</data>
+</edge>
+<edge source="FRANK" target="RAYMOND">
+  <data key="d1">2</data>
+</edge>
+<edge source="FRANK" target="BEN">
+  <data key="d1">2</data>
+</edge>
+<edge source="FRANK" target="STAND UP.">
+  <data key="d1">1</data>
+</edge>
+<edge source="FRANK" target="PAUL">
+  <data key="d1">1</data>
+</edge>
+<edge source="FRANK" target="WILLARD">
+  <data key="d1">1</data>
+</edge>
+<edge source="FRANK" target="DONNY">
+  <data key="d1">1</data>
+</edge>
+<edge source="MRS. BEAUMONT" target="DR. GYNDE">
+  <data key="d1">1</data>
+</edge>
+<edge source="DR. GYNDE" target="MR. BEAUMONT">
+  <data key="d1">1</data>
+</edge>
+<edge source="DR. GYNDE" target="NURSE CINDY">
+  <data key="d1">1</data>
+</edge>
+<edge source="COLLEGE BOY" target="LOUISE">
+  <data key="d1">2</data>
+</edge>
+<edge source="NURSE CINDY" target="MR. BEAUMONT">
+  <data key="d1">1</data>
+</edge>
+<edge source="MAITRE D'" target="SLEAZY MAITRE D'">
+  <data key="d1">1</data>
+</edge>
+<edge source="MAITRE D'" target="SLEZY MAITRE D'">
+  <data key="d1">1</data>
+</edge>
+<edge source="MAITRE D'" target="WAITER">
+  <data key="d1">1</data>
+</edge>
+<edge source="YELLOW MAN" target="T.R. GORDON-YELLOW MAN">
+  <data key="d1">1</data>
+</edge>
+<edge source="RAYMOND" target="BEN">
+  <data key="d1">1</data>
+</edge>
+<edge source="RAYMOND" target="DONNY">
+  <data key="d1">1</data>
+</edge>
+<edge source="BEN" target="DONNY">
+  <data key="d1">1</data>
+</edge>
+<edge source="SLEAZY MAITRE D'" target="SLEZY MAITRE D'">
+  <data key="d1">1</data>
+</edge>
+<edge source="SLEAZY MAITRE D'" target="WAITER">
+  <data key="d1">1</data>
+</edge>
+<edge source="SLEZY MAITRE D'" target="WAITER">
+  <data key="d1">1</data>
+</edge>
+<edge source="AND" target="DETECTIVES">
+  <data key="d1">1</data>
+</edge>
+<edge source="AND" target="J.R. WILLIAMS">
+  <data key="d1">1</data>
+</edge>
+<edge source="AND" target="T.R. GORDON">
+  <data key="d1">1</data>
+</edge>
+<edge source="DETECTIVES" target="J.R. WILLIAMS">
+  <data key="d1">1</data>
+</edge>
+<edge source="DETECTIVES" target="T.R. GORDON">
+  <data key="d1">1</data>
+</edge>
+<edge source="J.R. WILLIAMS" target="T.R. GORDON">
+  <data key="d1">1</data>
+</edge>
+</graph></graphml>
